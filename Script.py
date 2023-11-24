@@ -8,8 +8,8 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
- ‣ OWNER : <a href='http://t.me/HORRIDduo'>HORRID</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='http://t.me/HORRIDduo'>HORRID</a> 
+ ‣ OWNER : <a href='http://t.me/ROHANKUMAR188'>ROHANKUMAR</a> 
+ ‣ Creator: <a href='http://t.me/ROHANKUMAR188'>ROHAN</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -17,9 +17,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ of this of contact my developers ◉› :<a href=http://t.me/HORRIDduo>OWNER</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ of this of contact my developers ◉› :<a href=http://t.me/ROHANKUMAR188>OWNER</a>
 
-<b>ᴅᴇᴠ: <a herf=http://t.me/HORRIDduo>HORRID</a></b>"""
+<b>ᴅᴇᴠ: <a herf=http://t.me/ROHANKUMAR188>ROHAN</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -30,7 +30,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/mkn_bots_updates/1 https://t.me/mkn_bots_updates/10</code>"""
+</code>/batch https://t.me/themoviesbackup https://t.me/themoviesbackup</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
