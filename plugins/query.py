@@ -431,12 +431,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("🔍Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🎭🔱🅲🅷🅰🅽🅽🅴🅻🔱🎭", url="https://t.me/The_Movies_Officially")
+            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/XBOTSUPPORTS'), 
+            InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/MALLU_MOVIES_PROK")
             ],[      
-            InlineKeyboardButton("〽️🅷🅴🅻🅿❤️💧 ", callback_data="help"),
-            InlineKeyboardButton("〽️𝔸𝔹𝕆𝕌𝕋🔱", callback_data="about")    
-        ]]
+            InlineKeyboardButton("🔴𝙃𝙀𝙇𝙋🔴", callback_data="help"),
+            InlineKeyboardButton("❌𝘼𝘽𝙊𝙐𝙏❌", callback_data="about")
+         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), START_MESSAGE.format(user=query.from_user.mention, bot=client.mention), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
        
     elif query.data == "help":
@@ -468,7 +468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://github.com/MrMKN/PROFESSOR-BOT')
+            InlineKeyboardButton('MAIN', url='https://t.me/MALLU_MOVIES_PROK')
             ],[
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
