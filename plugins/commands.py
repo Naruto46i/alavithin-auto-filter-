@@ -35,7 +35,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/XBOTSUPPORTS'), 
+            InlineKeyboardButton("Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
             InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/MALLU_MOVIES_PROK")
             ],[      
             InlineKeyboardButton("🔴𝙃𝙀𝙇𝙋🔴", callback_data="help"),
@@ -71,7 +71,7 @@ async def start(client, message):
         buttons = [[
              InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/XBOTSUPPORTS'), 
+            InlineKeyboardButton("Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''),
             InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/MALLU_MOVIES_PROK")
             ],[      
             InlineKeyboardButton("🔴𝙃𝙀𝙇𝙋🔴", callback_data="help"),
