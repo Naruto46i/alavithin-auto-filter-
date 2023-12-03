@@ -35,13 +35,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("🔍Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🎭🔱🅲🅷🅰🅽🅽🅴🅻🔱🎭", url="https://t.me/themoviesbackup")
+            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/XBOTSUPPORTS'), 
+            InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/MALLU_MOVIES_PROK")
             ],[      
-            InlineKeyboardButton("〽️🅷🅴🅻🅿❤️💧 ", callback_data="help"),
-            InlineKeyboardButton("〽️𝔸𝔹𝕆𝕌𝕋🔱", callback_data="about")
+            InlineKeyboardButton("🔴𝙃𝙀𝙇𝙋🔴", callback_data="help"),
+            InlineKeyboardButton("❌𝘼𝘽𝙊𝙐𝙏❌", callback_data="about")
          ]]
-        m = await message.reply_sticker("CAACAgUAAxkBAAEKzxllYEjI48yCAoLVTZU1RMzSUqC6bwACGgADwSQxMR6DS4fnbFdqMwQ") 
+        m = await message.reply_sticker("CAACAgUAAxkBAAEK4iRlbDTlTXxILKscXSdWAgIZv6Q6-AACeAsAAk5caFe__edPSW7iyDME") 
         await asyncio.sleep(2)
         await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
         return await m.delete()
@@ -69,15 +69,15 @@ async def start(client, message):
         
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+             InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("🔍Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🎭🔱🅲🅷🅰🅽🅽🅴🅻🔱🎭", url="https://t.me/themoviesbackup")
+            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/XBOTSUPPORTS'), 
+            InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/MALLU_MOVIES_PROK")
             ],[      
-            InlineKeyboardButton("〽️🅷🅴🅻🅿❤️💧 ", callback_data="help"),
-            InlineKeyboardButton("〽️𝔸𝔹𝕆𝕌𝕋🔱", callback_data="about") 
-        ]]
-        m = await message.reply_sticker("CAACAgUAAxkBAAEKzxllYEjI48yCAoLVTZU1RMzSUqC6bwACGgADwSQxMR6DS4fnbFdqMwQ")
+            InlineKeyboardButton("🔴𝙃𝙀𝙇𝙋🔴", callback_data="help"),
+            InlineKeyboardButton("❌𝘼𝘽𝙊𝙐𝙏❌", callback_data="about")
+         ]]
+        m = await message.reply_sticker("CAACAgUAAxkBAAEK4iRlbDTlTXxILKscXSdWAgIZv6Q6-AACeAsAAk5caFe__edPSW7iyDME")
         await asyncio.sleep(2)
         await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
         return await m.delete()
