@@ -21,6 +21,7 @@ PICS = (environ.get('PICS' ,'https://graph.org/file/01ddfcb1e8203879a63d7.jpg ht
 UPTIME = time.time()
 OPENAI_API = environ.get('OPENAI_API', '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') #add here openai api
 SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1002029882658')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/XBOTSUPPORTS')
 
 # Admins, Channels & Users
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
