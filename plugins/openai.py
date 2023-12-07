@@ -7,8 +7,6 @@ openai.api_key = OPENAI_API
 
 @Client.on_message(filters.command("openai"))
 async def ask_question(client, message):
-        btn = [[
-    try:
         text = message.text.split(" ", 1)[1]
     except:
         return await message.reply_text("Give an input!")
