@@ -75,17 +75,6 @@ SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/XBOTSUPPORTS')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/botuptest')
 
 # Bot settings
-AUTO_FILTER = is_enabled((environ.get('AUTO_FILTER', "True")), True)
-IMDB = is_enabled((environ.get('IMDB', "True")), True)
-SPELL_CHECK = is_enabled(environ.get("SPELL_CHECK", "True"), True)
-SHORTLINK = is_enabled((environ.get('SHORTLINK', "False")), False)
-DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds
-AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "False")), False)
-WELCOME = is_enabled((environ.get('WELCOME', "False")), False)
-PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
-LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
-LINK_MODE = is_enabled(environ.get("LINK_MODE", "True"), True)
-CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 
 # Other
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", script.IMDB_TEMPLATE)
