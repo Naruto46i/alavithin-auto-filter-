@@ -7,7 +7,7 @@ openai.api_key = OPENAI_API
 
 @Client.on_message(filters.command("openai"))
 async def ask_question(client, message):
-    if message.chat.id != SUPPORT_GROUP:
+    if message.chat.id != 
         btn = [[
             InlineKeyboardButton('Support Group', url=SUPPORT_LINK)
         ]]
