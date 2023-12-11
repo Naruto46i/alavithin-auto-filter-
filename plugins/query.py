@@ -431,8 +431,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton("➕️ ₳ĐĐ ₥Ɇ ₮Ø ɎØɄⱤ ₲ⱤØɄ₱  ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/XBOTSUPPORTS'), 
-            InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/MALLU_MOVIES_PROK")
+            InlineKeyboardButton("⭕𝙎𝙐𝙋𝙋𝙊𝙍𝙏⭕", url='https://t.me/mallumovieworldmain'), 
+            InlineKeyboardButton("♻️𝙐𝙋𝘿𝘼𝙏𝙀♻️", url="https://t.me/mallumovieworldmain1")
             ],[      
             InlineKeyboardButton("🔴𝙃𝙀𝙇𝙋🔴", callback_data="help"),
             InlineKeyboardButton("❌𝘼𝘽𝙊𝙐𝙏❌", callback_data="about")
@@ -468,7 +468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('MAIN', url='https://t.me/MALLU_MOVIES_PROK')
+            InlineKeyboardButton('MAIN', url='https://t.me/mallumovieworldmain1')
             ],[
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
