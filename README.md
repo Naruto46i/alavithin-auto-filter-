@@ -73,12 +73,12 @@
 * `SHORT_API` : Api Key Of Shortner Which You Use
 </details>
 
-<details>
+<details
 <summary><b>Deploy to Heroku</b></summary>
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hishamkokoh/PROFESSOR-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Naruto46i/alavithin-auto-filter-)
 </details>
 
 <details>
