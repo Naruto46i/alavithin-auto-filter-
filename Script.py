@@ -8,8 +8,8 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
- ‣ OWNER : <a href='http://t.me/HORRIDduo'>horrid</a> 
- ‣ Creator: <a href='http://t.me/HORRIDduo'>horrid</a> 
+ ‣ OWNER : <a href='http://t.me/aktelegram1'>ABHIJIT</a> 
+ ‣ THANKS❤️: <a href='http://t.me/HORRIDduo'>HORRID</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -17,9 +17,9 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ of this of contact my developers ◉› :<a href=http://t.me/HORRIDduo>OWNER</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ of this of contact my developers ◉› :<a href=http://t.me/aktelegram1>OWNER</a>
 
-<b>ᴅᴇᴠ: <a herf=http://t.me/HORRIDduo>Horrid</a></b>"""
+<b>ᴅᴇᴠ: <a herf=http://t.me/aktelegram1>Horrid</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -30,7 +30,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch http://t.me/HORRIDduo http://t.me/HORRIDduo</code>"""
+</code>/batch http://t.me/aktelegram1 http://t.me/aktelegram1</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
