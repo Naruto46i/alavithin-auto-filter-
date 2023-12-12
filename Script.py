@@ -19,7 +19,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ of this of contact my developers ◉› :<a href=http://t.me/aktelegram1>OWNER</a>
 
-<b>ᴅᴇᴠ: <a herf=http://t.me/aktelegram1>Horrid</a></b>"""
+<b>ᴅᴇᴠ: <a herf=http://t.me/aktelegram1>abijith</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
